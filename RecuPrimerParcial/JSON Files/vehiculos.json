@@ -1,0 +1,26 @@
+[
+    {
+        "_patente": "aaa123",
+        "_marca": "ford",
+        "_modelo": "Ka",
+        "_precio": "100000"
+    },
+    {
+        "_patente": "bbb789",
+        "_marca": "renault",
+        "_modelo": "nevada",
+        "_precio": "80000"
+    },
+    {
+        "_patente": "ccc567",
+        "_marca": "ford",
+        "_modelo": "mondeo",
+        "_precio": "150000"
+    },
+    {
+        "_patente": "ddd567",
+        "_marca": "ford",
+        "_modelo": "mondeo",
+        "_precio": "150000"
+    }
+]

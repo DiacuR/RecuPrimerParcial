@@ -1,0 +1,26 @@
+[
+    {
+        "password": "1234",
+        "email": "admin@mail.com",
+        "imagen": {
+            "name": "admin@mail.com",
+            "type": "image\/jpeg",
+            "tmp_name": ".\/img\/admin@mail.com.jpg",
+            "error": 0,
+            "size": 99864
+        },
+        "tipo": "admin"
+    },
+    {
+        "password": "1234",
+        "email": "user@mail.com",
+        "imagen": {
+            "name": "user@mail.com",
+            "type": "image\/jpeg",
+            "tmp_name": ".\/img\/user@mail.com.jpg",
+            "error": 0,
+            "size": 99864
+        },
+        "tipo": "user"
+    }
+]

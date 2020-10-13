@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "1",
+        "_nombreDelServicio": "Inflar ruedas",
+        "_tipo": "10000",
+        "_precio": "2000",
+        "_demora": null
+    },
+    {
+        "_id": "1",
+        "_nombreDelServicio": "Cambio de Ruedas",
+        "_tipo": "20000",
+        "_precio": "5000",
+        "_demora": "60"
+    },
+    {
+        "_id": "1",
+        "_nombreDelServicio": "Cambio de Ruedas",
+        "_tipo": "20000",
+        "_precio": "5000",
+        "_demora": "60"
+    }
+]
